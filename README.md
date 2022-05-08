@@ -12,7 +12,7 @@
 * React Footer Component
 ## Installation
 * cd into folder then npm i or yarn. 
-## Installation
+## Screenshot
 ![screenshot](./src/Assets/Screenshot/screenshot.png)
 ## Usage
 * N/A
